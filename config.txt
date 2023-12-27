@@ -1,0 +1,2 @@
+sk-xxx
+https://api.openai.com/{0}/{1}
